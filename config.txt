@@ -1,6 +1,6 @@
-token=NTAxOTE1MDc0NzQzNzYyOTQ1.DqgUYg.vUXVjd7A8zHqcesh6l98DD7D06o
+token=NTAxOTI2NTI5OTM3MTc4NjI1.DqglWQ.3vksA4bFqHVDrYjqvADmV8vgG1w
 owner=494550922328801302
-prefix=2
-game=Tybe 2help
+prefix=4
+game=Tybe 4help
 stayinchannel=true
 songinstatus=false
